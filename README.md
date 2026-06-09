@@ -33,11 +33,4 @@ Captura do NotebookLM (exemplo):
 
 ![Captura do NotebookLM](images/notebooklm-print.png)
 
-Como usar este repositório:
-- Coloque a captura na pasta `images/` com o nome `notebooklm-print.png` para que ela seja exibida no README.
-- Visite o link do NotebookLM para reproduzir ou gerar novos relatórios a partir das fontes listadas.
 
-Se quiser, eu mesmo adiciono a imagem se você fizer upload do arquivo aqui (arraste-o para a mensagem) ou autorizar o envio do arquivo para o repositório.
-Se quiser, eu já atualizo os placeholders com os links dos PDFs se você me enviar os arquivos ou os URLs.
-# miniguia-estudos-notebooklm
-criar um Caderno Temático no NotebookLM
