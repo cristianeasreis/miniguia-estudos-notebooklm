@@ -29,8 +29,4 @@ Recursos de estudo oferecidos pelo NotebookLM (painel "Estúdio"):
 - Infográfico (Beta)
 - Tabela de dados
 
-Captura do NotebookLM (exemplo):
-
-![Captura do NotebookLM](images/notebooklm-print.png)
-
 
